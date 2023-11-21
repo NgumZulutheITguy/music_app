@@ -1,6 +1,6 @@
 # music_app
 
-A new Flutter project.
+A simple music player app with a single display
 
 ## Getting Started
 
